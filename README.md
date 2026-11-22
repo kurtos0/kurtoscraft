@@ -131,7 +131,7 @@ Langues proposées :
 | `ru` | Русский |
 | `th` | ไทย |
 
-La langue par défaut définie dans le code est le français. Certaines chaînes ou certains contenus peuvent encore utiliser l'anglais lorsqu'une traduction n'est pas renseignée.
+La langue par défaut définie dans le code est le français.
 
 ## Sauvegardes et textures
 
